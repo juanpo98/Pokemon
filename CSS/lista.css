@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.todosl-pokemon {
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.todosl-pokemon button {
+    border-radius: 1rem;
+    height: 40px; 
+    width: 100%; 
+    text-transform: uppercase;
+}
+.bom{
+    position: absolute;
+    margin-left: 540px;
+    top: 450px;
+    height: 20px;
+    width: 20px;
+    border-color: rgb(253, 208, 125);
+    border-radius: 1rem;
+}
+.bon{
+    position: absolute;
+    margin-left: 590px;
+    top: 450px;
+    height: 20px;
+    width: 20px;
+    border-radius: 1rem;
+}
+
+header{
+    position: relative;
+    top: 80px;
+    margin-left: 200px;
+    border-radius: 1rem;
+    width: 95px;
+    background-color: rgb(247, 196, 120);
+}
+a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+

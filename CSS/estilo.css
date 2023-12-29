@@ -1,0 +1,103 @@
+*{
+    padding: .3rem;
+    
+}
+.for{
+    position: relative;
+    top: 50px;
+    border-radius: 1rem 0 1rem 0;
+    background-color: rgb(255, 243, 200);
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+    text-transform: uppercase;
+    
+}
+.for h5{
+    margin: 10px 0 0 10px;
+}
+.pas{
+    border-radius: 1rem;
+    border-color: rgb(248, 188, 110);
+    background-color: rgb(250, 248, 233);
+}
+.en{
+    margin-left: 65px;
+    border-radius: 1rem;
+    border-color: rgb(248, 188, 110);
+}
+h3{
+    margin-left: 465px;
+    position: relative;
+    top: 100px;
+}
+img{
+    height: 20px;
+    width: 20px;
+    margin-left: 440px;
+    position: relative;
+    top: 50px;
+}
+header{
+    position: relative;
+    top: 260px;
+    margin-left: 700px;
+    border-radius: 1rem;
+    width: 95px;
+    background-color: rgb(247, 196, 120);
+}
+a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+
+/* ----------------------------------------- */
+
+.en2{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-radius: 1rem;
+    border-color: rgb(248, 188, 110);
+}
+.tex{
+    text-align: start;
+    width: 180px;
+    border-radius: 1rem;
+    background-color: rgba(255, 174, 0, 0.801);
+}
+.header2{
+    position: absolute;
+    top: 300px;
+    margin-left: 656px;
+    border-radius: 1rem;
+    width: 170px;
+    text-align: center;
+    background-color: rgb(247, 222, 185);
+}
+.tex{
+    position: absolute;
+    top: 150px;
+    margin-left: 650px;
+}
+h4{
+    text-transform: uppercase;
+    margin-left: 530px;
+}
+
+
+
+/* -----------------------  */
+.todosl-pokemon{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    background-color: aqua;
+}
+.todosl-pokemon button{
+    position: relative;
+   margin-left: 100px;
+}

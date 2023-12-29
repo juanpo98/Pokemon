@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+header{
+    position: relative;
+    top: 50px;
+    margin-left: 200px;
+    border-radius: 1rem;
+    width: 95px;
+    background-color: rgb(247, 196, 120);
+}
+a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
